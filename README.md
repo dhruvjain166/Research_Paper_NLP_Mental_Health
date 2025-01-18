@@ -6,3 +6,5 @@ First Online Publication Date: October 2, 2024
 Authors: Amitkumar Upadhyay, Deepika Varshney, Rishabh, Srishti Vashishtha, Dhruv Jain, Jaishree Meena, and Ashish Khanna.
 
 This publication highlights the novel technique developed in this project for the early diagnosis of mental health issues using advanced Natural Language Processing (NLP) methods.
+
+This research employs advanced NLP techniques, including LSTM, tokenization, lemmatization, stop word removal, padding, and GloVe (word-to-vector) embeddings, for the early diagnosis of mental health issues.
